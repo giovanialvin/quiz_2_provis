@@ -1,4 +1,4 @@
-# Quiz 2 Pemrograman Visual dan Piranti Bergerak
+# Quiz 2 Pemrograman Visual dan Piranti Bergerak (Senin_07)
 ## Kelompok 5
 ### Anggota
 Nama  : Alvin Giovani <br/>
